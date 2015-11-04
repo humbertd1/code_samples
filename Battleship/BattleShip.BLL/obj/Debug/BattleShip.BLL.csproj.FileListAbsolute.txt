@@ -1,0 +1,12 @@
+C:\pjs\swcguild\DotNet-MSP-August-2015-Materials\GradedHomework\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\pjs\swcguild\DotNet-MSP-August-2015-Materials\GradedHomework\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\pjs\swcguild\DotNet-MSP-August-2015-Materials\GradedHomework\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\pjs\swcguild\DotNet-MSP-August-2015-Materials\GradedHomework\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\pjs\swcguild\DotNet-MSP-August-2015-Materials\GradedHomework\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\CodeCampDanny\Battleship\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\CodeCampDanny\Battleship\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\CodeCampDanny\Battleship\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\CodeCampDanny\Battleship\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\CodeCampDanny\Battleship\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\CodeCampDanny\Battleship\BattleShip.BLL\bin\Debug\nunit.framework.dll
+C:\CodeCampDanny\Battleship\BattleShip.BLL\bin\Debug\nunit.framework.xml
